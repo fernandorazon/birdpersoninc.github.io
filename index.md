@@ -49,3 +49,5 @@ During her conversation with Birdperson in [[The Wedding Squanchers]], Beth tell
 *"Morty, suppose you could retrieve your family from Earth but had to abandon Rick. I could give your loved ones shelter on Birdworld, even jobs, possibly as worm ranchers. How often do you think you might look up at the stars and wonder what might have been, had you just put your faith in Rick?"
 *"Tammy, I was approaching infertility when I met you but there is still time. I am yours until my death." ''(Wedding Vow)''
 *"In Bird culture this is considered a dick move."
+
+#This is from  a fork modification
